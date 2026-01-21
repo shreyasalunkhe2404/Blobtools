@@ -1,7 +1,6 @@
 # Blobtools
 Blobtools is a visualisation and quality control software suite used primarily to detect and remove contamination from genome assemblies.
 
-## Downloading the nucleotide and protein database 
 
 ## Downloading softwares using conda
 ```bash
@@ -18,6 +17,8 @@ conda create -n btk
 conda activate btk
 conda install -c bioconda btk
 ```
+## Downloading the nucleotide and protein database 
+
 
 ## Acquiring nucleotide database
 ```bash
